@@ -1,0 +1,14 @@
+django-taxonomy is an app that is completely self-contained, following 
+the 'loosely-coupled' mantra that most of the Django community puts forth. 
+
+With this app installed, you not only create categories, you create the whole 
+notion of categories in your application, *then* create categories. If your 
+app evolves and needs tags later, don't install a "tags" app, just create the 
+notion of "tags" right there on the spot using django-taxonomy! Wanna create
+labels? What are those?! I don't know, but if it's a way to classify
+information in your app, I hope django-taxonomy can handle it. 
+
+To see some background on why/how this was created, please see this blog post,
+which discusses it in gory detail.
+http://www.protocolostomy.com/2009/08/21/lessons-learned-while-creating-a-generic-taxonomy-app-for-django/
+
