@@ -11,7 +11,7 @@ setup(
     url='http://github.com/bkjones/django-taxonomy',
     packages=[
         'taxonomy',
-        'haystack.templatetags',
+        'taxonomy.templatetags',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
