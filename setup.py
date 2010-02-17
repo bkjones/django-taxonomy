@@ -7,7 +7,7 @@ setup(
     version='0.0.1',
     description='A flexible taxonomy approach for Django.',
     author='Brian K. Jones',
-    author_email='???',
+    author_email='bkjones@gmail.com',
     url='http://github.com/bkjones/django-taxonomy',
     packages=[
         'taxonomy',
@@ -18,7 +18,7 @@ setup(
         'Environment :: Web Environment',
         'Framework :: Django',
         'Intended Audience :: Developers',
-        # 'License :: OSI Approved :: BSD License', - Don't know what license the code is under. Scary!
+        'License :: OSI Approved :: BSD License'
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Topic :: Utilities'
