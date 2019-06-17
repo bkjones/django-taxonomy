@@ -10,5 +10,5 @@ information in your app, I hope django-taxonomy can handle it.
 
 To see some background on why/how this was created, please see this blog post,
 which discusses it in gory detail.
-http://www.protocolostomy.com/2009/08/21/lessons-learned-while-creating-a-generic-taxonomy-app-for-django/
+http://protocolostomy.com/2009/08/21/lessons-learned-while-creating-a-generic-taxonomy-app-for-django/
 
